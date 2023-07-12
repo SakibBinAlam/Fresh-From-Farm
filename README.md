@@ -4,3 +4,5 @@ The database system stores information about farmers, their products (crops), an
 
 ### Diagrams: ER, EER, Logical Schema
 (Attached in the Diagram document)
+
+#### The project is done by implementing Relational Database (SQL), NoSQL (MongoDB) and Graph Model (Neo4j)
